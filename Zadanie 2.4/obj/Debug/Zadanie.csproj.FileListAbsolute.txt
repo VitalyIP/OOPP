@@ -1,0 +1,9 @@
+C:\Users\stud\Downloads\PortableGit-ПочекутовВИ\TrainingRepository\Zadanie\bin\Debug\Zadanie.exe.config
+C:\Users\stud\Downloads\PortableGit-ПочекутовВИ\TrainingRepository\Zadanie\bin\Debug\Zadanie.exe
+C:\Users\stud\Downloads\PortableGit-ПочекутовВИ\TrainingRepository\Zadanie\bin\Debug\Zadanie.pdb
+C:\Users\stud\Downloads\PortableGit-ПочекутовВИ\TrainingRepository\Zadanie\bin\Debug\lib2.dll
+C:\Users\stud\Downloads\PortableGit-ПочекутовВИ\TrainingRepository\Zadanie\bin\Debug\lib2.pdb
+C:\Users\stud\Downloads\PortableGit-ПочекутовВИ\TrainingRepository\Zadanie\obj\Debug\Zadanie.csprojAssemblyReference.cache
+C:\Users\stud\Downloads\PortableGit-ПочекутовВИ\TrainingRepository\Zadanie\obj\Debug\Zadanie.csproj.CopyComplete
+C:\Users\stud\Downloads\PortableGit-ПочекутовВИ\TrainingRepository\Zadanie\obj\Debug\Zadanie.exe
+C:\Users\stud\Downloads\PortableGit-ПочекутовВИ\TrainingRepository\Zadanie\obj\Debug\Zadanie.pdb
